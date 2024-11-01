@@ -1,4 +1,4 @@
-#Copy form **https://github.com/sijichun/CNEconDict**
+# Copy form **https://github.com/sijichun/CNEconDict**
 # CNEconDict（中文经济词典）
 适用于中文分词的经济金融词典
 
