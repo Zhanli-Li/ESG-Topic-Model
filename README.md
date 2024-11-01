@@ -1,8 +1,19 @@
 # ESG-Topic-Model
-As sustainable development becomes deeply ingrained, non-financial information has increasingly become a crucial metric for evaluating enterprises, leading more companies to voluntarily disclose corporate social responsibility (CSR) reports. Current research on CSR reports is mainly conducted by major ESG rating agencies, with academic studies often focusing on quantitative analyses based on these ratings. However, this approach often overlooks the rich textual content within the CSR reports themselves. We aim to employ large-scale pre-trained language models to perform topic modeling on CSR reports disclosed by Chinese listed companies and explore downstream applications, including but not limited to causal inference and time-series forecasting.
-# Our Team
-- Adviser: Zichao Yang
-- Leader: Zhanli Li
-- Core Member: Leike Yu, Hao Zhang, Yuxuan Jin, Ruiyin Liu
-# Citiation
+
+## Introduction
+As sustainable development gains momentum, non-financial information has become a critical metric for evaluating enterprises. This shift has led more companies to voluntarily disclose corporate social responsibility (CSR) reports. Most current research on ESG (CSR) reports is conducted by major ESG rating agencies, while academic studies tend to rely on quantitative analyses based on these ratings. However, this approach often overlooks the valuable insights contained within the textual content of ESG (CSR) reports.
+
+In the near future, we aim to develop an efficient deep learning model for ESG ratings and conduct some compelling empirical research. We look forward to you shining stars for us and
+woking together to support high-quality and meaningful research!
+
+## Our Team
+- **Adviser**: Zichao Yang
+- **Leader**: Zhanli Li
+- **Core Members**: Leike Yu, Hao Zhang, Yuxuan Jin, Ruiyin Liu
+
+## Questions
+If you have any questions about our project, feel free to email us at lizhanli@stu.zuel.edu.cn. We will do our best to respond promptly.
+
+## Citation
 Coming soon!
+
