@@ -7,7 +7,7 @@ In the near future, we aim to develop an efficient deep learning model for ESG r
 woking together to support high-quality and meaningful research!
 
 ## Our Team
-- **Adviser**: Zichao Yang
+- **Advisor**: Zichao Yang
 - **Leader**: Zhanli Li
 - **Core Members**: Leike Yu, Hao Zhang, Yuxuan Jin, Ruiyin Liu
 
