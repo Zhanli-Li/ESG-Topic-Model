@@ -12,7 +12,7 @@ woking together to support high-quality and meaningful research!
 - **Core Members**: Leike Yu, Hao Zhang, Yuxuan Jin, Ruiyin Liu
 
 ## Questions
-If you have any questions about our project, feel free to email us at lizhanli@stu.zuel.edu.cn(Deep Learing) or zhanghao0515@stu.zuel.edu.cn(Economic). We will do our best to respond promptly.
+If you have any questions about our project, feel free to email us at lizhanli@stu.zuel.edu.cn(Deep Learing) or zhanghao0515@stu.zuel.edu.cn(Economics). We will do our best to respond promptly.
 
 ## Citation
 Coming soon!
