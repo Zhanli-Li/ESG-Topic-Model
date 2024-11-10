@@ -1,4 +1,4 @@
-# Copy form **https://github.com/sijichun/CNEconDict**
+
 # CNEconDict（中文经济词典）
 适用于中文分词的经济金融词典
 
@@ -27,4 +27,4 @@
 
 由于以上获取的词典的信息来源非常多，难以避免的词典文件会非常大，这有可能会影响分词的效率。如果需要一个更小的词典，以上所有文件（除库文件之外）都可以单独执行，并相应下载/爬取对应的文本文件至/sub_dics文件夹下面，生成词典的主文件gen_dict.py只会将sub_dics文件夹下面的所有.txt文件按照一定的规则整合为一个词典文件。
 
-个人比较忙，更新较慢，如果感兴趣，一起来干。
+## Copy form **https://github.com/sijichun/CNEconDict**
