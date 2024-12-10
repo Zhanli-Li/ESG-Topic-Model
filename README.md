@@ -1,5 +1,5 @@
 # ESG-Topic-Model
-
+The repository will be funded by `Innovation Training Program for Chineses Colleges Students`
 ## Introduction
 As sustainable development gains momentum, non-financial information has become a critical metric for evaluating enterprises. This shift has led more companies to voluntarily disclose corporate social responsibility (CSR) reports. Most current research on ESG (CSR) reports is conducted by major ESG rating agencies, while academic studies tend to rely on quantitative analyses based on these ratings. However, this approach often overlooks the valuable insights contained within the textual content of ESG (CSR) reports.
 
